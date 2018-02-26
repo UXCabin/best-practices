@@ -6,7 +6,7 @@ UXCabin best practices guide for doing literally anything, from Sketch and Abstr
 A more detailed guide for Abstract practice can be found [here](version-main.md).
 
 # Design
-A more detailed guide for Sketch practice can be found [here](../design-main.md).  
+A more detailed guide for Sketch practice can be found [here](design-main.md).  
 
 # Front-end
 A more detailed guide for front-end development practice can be found [here](../front-main.md).  
