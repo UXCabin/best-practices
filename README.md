@@ -3,7 +3,7 @@ UXCabin best practices guide for doing literally anything, from Sketch and Abstr
 
 
 # Version control
-A more detailed guide for Abstract practice can be found [here](../version-main.md).
+A more detailed guide for Abstract practice can be found [here](/version-main.md).
 
 # Design
 A more detailed guide for Sketch practice can be found [here](../design-main.md).  
