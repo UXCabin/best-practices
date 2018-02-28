@@ -1,4 +1,4 @@
-Welcome to the best-practices wiki, UXCabin best practices guide for doing literally anything, from Sketch and Abstract, to CSS syntax guides, Harvest time-tracking practice and Slack dos and don'ts.
+Welcome to the best-practices [wiki](https://github.com/UXCabin/best-practices/wiki/), UXCabin best practices guide for doing literally anything, from Sketch and Abstract, to CSS syntax guides, Harvest time-tracking practice and Slack dos and don'ts.
 
 
 # Version control
